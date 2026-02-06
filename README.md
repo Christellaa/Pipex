@@ -1,15 +1,9 @@
 # PIPEX
-This project replicates Unix pipe behavior. It executes a set of commands chained by pipes by handling file descriptors and child processes.
+42 School project aimed at replicating Unix pipe behavior. It executes a set of commands chained by pipes by handling file descriptors and child processes.
 
-## Technologies used
-- Language
-	- C
-- Tools
-	- Makefile
-- Norm
-	- [42 norminette](https://github.com/42school/norminette)
+Following the [42 norm](https://github.com/42school/norminette)
 
-## What I learned
+## Skills developed
 - Handle input/output redirection
 - Manage child processes
 - Understand how Unix pipelines work
